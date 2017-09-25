@@ -1,0 +1,23 @@
+{
+  "name": "layerdrive-docker",
+  "version": "1.0.0",
+  "description": "A Docker runtime for Layerdrive images",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrewosh/layerdrive-docker.git"
+  },
+  "keywords": [
+    "layerdrive",
+    "docker"
+  ],
+  "author": "Andrew Osheroff <andrewosh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andrewosh/layerdrive-docker/issues"
+  },
+  "homepage": "https://github.com/andrewosh/layerdrive-docker#readme"
+}
